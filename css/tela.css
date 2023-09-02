@@ -15,6 +15,7 @@ h1 {
   width: 100%; /* Ocupa todo o tamanho da tela */
   height: 100%;
   overflow: hidden;
+  background-attachment: fixed;
 
   /** CENARIO **/
   background: url(../imagens/sans-titre-1_tpwa.jpg) bottom left no-repeat;
